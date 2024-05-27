@@ -26,7 +26,7 @@ performance in segmentation of stroke lesions within the 3D brain scans.
 
 Dataset:
 
-To train and test the models the Anatomical Tracings of Lesions after Stroke (ATLAS) dataset was used. This is a publicly available dataset with a total of 955 T1-weighted MRIs (Magnetic Resonance Imaging) with manually segmented diverse lesions and metadata of patient brains. A subset of this data was used containing …
+To train and test the models the Anatomical Tracings of Lesions after Stroke (ATLAS) dataset was used. This is a publicly available dataset with a total of 955 T1-weighted MRIs (Magnetic Resonance Imaging) with manually segmented diverse lesions and metadata of patient brains.
 
 
 
