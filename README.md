@@ -1,4 +1,6 @@
 # Segmentation
+NOTE: Code is taken from the following repos to be run and tested using the ATLAS dataset. Alterations have been made to the code to work with the different filetype supported by ATLAS and to gauge the accuracy/dice/precision of the models by testing various parameters.
+
 Segmentation for Atlas Data
 - Dataset: https://www.icpsr.umich.edu/web/ADDEP/studies/36684
 Cited: https://github.com/Beckschen/TransUNet
